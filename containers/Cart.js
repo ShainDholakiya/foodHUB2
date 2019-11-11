@@ -22,7 +22,7 @@ const Cart = () => {
 			<View style={styles.containerMatches}>
 				<ScrollView>
 					<View style={styles.top}>
-						<Text style={styles.title}>Matches</Text>
+						<Text style={styles.title}>Cart</Text>
 						<TouchableOpacity>
 							<Text style={styles.icon}>
 								<Icon name="optionsV" />
